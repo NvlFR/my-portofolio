@@ -1,8 +1,8 @@
 import React from "react";
-import PortfolioPage from "./pages/PortofolioPage";
+import MyPortofolio from "./pages/WelcomePage";
 
 function App() {
-  return <PortfolioPage />;
+  return <MyPortofolio />;
 }
 
 export default App;
